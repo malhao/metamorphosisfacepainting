@@ -3,7 +3,7 @@ export default defineAppConfig({
     picture: {
       dark: 'https://images.unsplash.com/photo-1701615004837-40d8573b6652?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       light: 'https://images.unsplash.com/photo-1701615004837-40d8573b6652?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
-      alt: 'My profile picture'
+      alt: 'https://www.facebook.com/photo/?fbid=122100626750986572&set=a.122096486108986572'
     },
     meetingLink: 'https://cal.com/',
     email: 'ui-pro@nuxt.com',
@@ -11,7 +11,7 @@ export default defineAppConfig({
   },
   ui: {
     colors: {
-      primary: 'blue',
+      primary: 'amber',
       neutral: 'neutral'
     }
   },
