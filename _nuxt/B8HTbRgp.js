@@ -1,1 +1,0 @@
-import{y as n,z as r,c,h as p,G as u,n as i,aO as s}from"./Dy1BN79-.js";const m={base:"my-1.5 ps-1.5 leading-7 [&>ul]:my-0"},_={__name:"ProseLi",props:{class:{type:null,required:!1}},setup(e){const a=e,o=n(),l=r(()=>s({extend:s(m),...o.uiPro?.prose?.li||{}}));return(t,d)=>(p(),c("li",{class:i(l.value({class:a.class}))},[u(t.$slots,"default")],2))}};export{_ as default};
