@@ -1,8 +1,8 @@
 export default defineAppConfig({
   global: {
     picture: {
-      dark: 'https://www.facebook.com/photo/?fbid=122100626750986572&set=a.122096486108986572',
-      light: 'https://www.facebook.com/photo/?fbid=122100626750986572&set=a.122096486108986572',
+      dark: '/meta-logo.jpg',
+      light: '/meta-logo.jpg',
       alt: 'Metamorphosys Face Painting Logo'
     },
     meetingLink: 'https://cal.com/',
