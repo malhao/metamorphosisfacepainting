@@ -59,17 +59,17 @@ useSeoMeta({
       }"
     >
       <Motion
-        v-for="(services, index) in services"
-        :key="services.title"
+        v-for="(service, index) in services"
+        :key="service.title"
         :initial="{ opacity: 0, transform: 'translateY(10px)' }"
         :while-in-view="{ opacity: 1, transform: 'translateY(0)' }"
         :transition="{ delay: 0.2 * index }"
         :in-view-options="{ once: true }"
       >
         <UPageCard
-          :title="services.title"
-          :description="services.description"
-          :to="services.url"
+          :title="service.title"
+          :description="service.description"
+          :to="service.url"
           orientation="horizontal"
           variant="naked"
           :reverse="index % 2 === 1"
@@ -80,15 +80,15 @@ useSeoMeta({
         >
           <template #leading>
             <span class="text-sm text-muted">
-              {{ new Date(services.date).getFullYear() }}
+              {{ new Date(service.date).getFullYear() }}
             </span>
           </template>
           <template #footer>
             <ULink
-              :to="services.url"
+              :to="service.url"
               class="text-sm text-primary flex items-center"
             >
-              View Services
+              View Service
               <UIcon
                 name="i-lucide-arrow-right"
                 class="size-4 text-primary transition-all opacity-0 group-hover:translate-x-1 group-hover:opacity-100"
@@ -96,8 +96,8 @@ useSeoMeta({
             </ULink>
           </template>
           <img
-            :src="services.image"
-            :alt="services.title"
+            :src="service.image"
+            :alt="service.title"
             class="object-cover w-full h-48 rounded-lg"
           >
         </UPageCard>
