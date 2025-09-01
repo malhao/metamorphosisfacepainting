@@ -21,6 +21,6 @@ For the Wordsmith Journal, I experimented with subtle animations that respond to
 
 User testing revealed something fascinating: readers spent 3x longer with articles and reported higher satisfaction and better recall of content compared to the journal's previous site. By designing for attention rather than distraction, we created a digital experience that honors the thoughtful nature of the content itself.
 
-I'm now incorporating elements of slow design into all my projects, asking: "Where can we create moments of pause? How can we reward attention rather than just capturing it?"
+I'm now incorporating elements of slow design into all my services, asking: "Where can we create moments of pause? How can we reward attention rather than just capturing it?"
 
 In our rush to optimize for engagement metrics, I think we've forgotten that sometimes the most meaningful digital experiences are the ones that don't demand immediate action but instead create space for thought.

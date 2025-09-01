@@ -73,9 +73,9 @@ export default defineContentConfig({
         })
       })
     }),
-    projects: defineCollection({
+    services: defineCollection({
       type: 'data',
-      source: 'projects/*.yml',
+      source: 'services/*.yml',
       schema: z.object({
         title: z.string().nonempty(),
         description: z.string().nonempty(),
@@ -98,7 +98,7 @@ export default defineContentConfig({
     pages: defineCollection({
       type: 'page',
       source: [
-        { include: 'projects.yml' },
+        { include: 'services.yml' },
         { include: 'blog.yml' }
       ],
       schema: z.object({
@@ -107,7 +107,7 @@ export default defineContentConfig({
     }),
     speaking: defineCollection({
       type: 'page',
-      source: 'speaking.yml',
+      source: 'gallery.yml',
       schema: z.object({
         links: z.array(createButtonSchema()),
         events: z.array(z.object({

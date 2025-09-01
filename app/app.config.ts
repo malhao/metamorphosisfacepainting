@@ -3,7 +3,7 @@ export default defineAppConfig({
     picture: {
       dark: '/meta-logo.jpg',
       light: '/meta-logo.jpg',
-      alt: 'Metamorphosys Face Painting Logo'
+      alt: 'Metamorphosis Face Painting Logo'
     },
     meetingLink: 'https://cal.com/',
     email: 'ui-pro@nuxt.com',
