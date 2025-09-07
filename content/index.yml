@@ -1,8 +1,10 @@
-seo:
-  title: Emma Thompson - UX/UI Designer
-  description: Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional.
-title: Hey, I'm Emma Thompson UX/UI Designer
-description: I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity.
+seo:At Metamorphosis Face Painting, we believe every child deserves to feel like a star. With dazzling rainbow designs, shimmering glitter, and a golden touch of magic, we bring imagination to life. Whether it’s a birthday party, a bustling festival, or a special community event, we make faces light up with joy and wonder.
+</p>
+  title: Rosie Malhao - Professional Face Painter
+  description: Welcome to my catalogue of designs. I Transform every celebration with a splash of magical 
+  creativity. Turning little faces into big smiles – one brushstroke at a timedd sparkle, joy, and unforgettable memories with professional face painting at birthdays, festivals, markets, and special events..
+title: Hey, I'm Rosie, Professional Face Painter
+description:At Metamorphosis Face Painting, we believe every child deserves to feel like a star. With dazzling rainbow designs, shimmering glitter, and a golden touch of magic, we bring imagination to life. Whether it’s a birthday party, a bustling festival, or a special community event, we make faces light up with joy and wonder. I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity.
 hero:
   links:
     - label: Use this template
@@ -29,9 +31,7 @@ hero:
       alt: Random Image 8
 about:
   title: About Me
-  description: |
-    As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
-    My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
+  description: As a Face PAinter I craft user-centered design experiences. My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
 experience:
   title: Work Experience
   items:
