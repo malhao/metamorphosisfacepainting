@@ -3,9 +3,9 @@ faq:
     - title: Payment Options
       questions:
         - label: Do you accept Cash?
-          content: Yes, to pay the remainder of an outstanding invoice booking. Alternatively you can also pay the remaining balance by Debit Card / Apple Pay / Google Pay
+          content: Yes, to pay the remainder of an outstanding invoice booking. Alternatively you can also pay the remaining balance by Debit Card / Apple Pay / Google Pay. Full payment is due 5 days ahead of
         - label: How do I secure my booking?
-          content: 'A 50% deposit is required to secure your booking. This is payable by Debit Card / Apple Pay / Google Pay '
+          content: 'A 50% deposit is required to secure your booking. This is payable by Debit Card / Apple Pay / Google Pay. If this is within 5 days of the event date then full payment is payable. '
     - questions:
         - content: Bookings start at 2 hours (approx 25 people), 3 hours, or 4 hours. If you need longer than this please call ad we can discuss requirements
           label: How long should I book you for?
