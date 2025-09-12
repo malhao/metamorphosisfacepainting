@@ -1,1 +1,0 @@
-import{y as r,z as c,c as l,h as p,G as u,n as d,aO as e}from"./D-t4JDlT.js";const m={base:"bg-muted"},h={__name:"ProseThead",props:{class:{type:null,required:!1}},setup(s){const a=s,t=r(),o=c(()=>e({extend:e(m),...t.uiPro?.prose?.thead||{}}));return(n,i)=>(p(),l("thead",{class:d(o.value({class:a.class}))},[u(n.$slots,"default")],2))}};export{h as default};
