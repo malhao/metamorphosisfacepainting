@@ -85,14 +85,12 @@ faq:
   title: Frequently Asked Questions
   description: Answers to common questions about my process and services.
   categories:
-    - title: Services & Process
+    - title: Payment Options
       questions:
-        - label: What services do you offer?
-          content: |
-            I specialize in UX/UI design and front-end development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing design systems. My goal is to create seamless digital experiences from concept to deployment.
-        - label: What is your design process like?
-          content: |
-            My process is collaborative and iterative, typically involving stages like Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and close collaboration with development teams during implementation. I tailor the process based on project needs, always focusing on user-centered solutions.
+        - label: Do you accept Cash?
+          content: Yes, to pay the remainder of an outstanding invoice booking. Alternatively you can also pay the remaining balance by Debit Card / Apple Pay / Google Pay. Full payment is due 5 days ahead of event.
+        - label: How do I secure my booking?
+          content: A 50% deposit is required to secure your booking. This is payable by Debit Card / Apple Pay / Google Pay. If this is within 5 days of the event date then full payment is payable.
         - label: Do you work with startups?
           content: |
             Absolutely! I enjoy working with startups to help shape their product vision and create user-friendly interfaces from the ground up. I can adapt my process to fit the fast-paced startup environment.
